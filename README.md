@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/teamdeebo/faq-accordion-card-main)
-- Live Site URL: [Live](https://omardalexander.com/Projects/faq-accordion-card-main/)
+- Live Site URL: [Live](https://teamdeebo.github.io/faq-accordion-card-main/)
 
 ## My process
 
