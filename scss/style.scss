@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 @mixin mobile {
-    @media (max-width: 575px) {
+    @media (max-width: 375px) {
         @content;
     }
 }
